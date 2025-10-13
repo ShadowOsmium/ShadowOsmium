@@ -6,7 +6,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowOsmium&layout=compact&theme=tokyonight)
 
 Call of Mini Revival Server
+
 [![Join The Call of Mini Revival Discord Server!](https://img.shields.io/discord/349711184859103235?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/jthpN6g2RS)
 
 My Discord Server
+
 [![Join My Mobile Games Revival Discord Server!](https://img.shields.io/discord/349711184859103235?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/X2j3szhMzt)
