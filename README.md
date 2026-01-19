@@ -1,5 +1,5 @@
 ## I’m a game modder dedicated to reviving classic mobile games with Unity 2017 through thoughtful modification and preservation while keeping the games fun and enjoyable. Some games I have worked on come from Triniti Interactive and GLU.
-### My favourite games i worked on so far is Call of Mini Dino Hunter and Call of Mini Zombies 2. Both have been a fun challenge to work with their badly coded scripts.
+### My favourite games i worked on so far is Call of Mini Dino Hunter and Call of Mini Zombies 2. Both have been a fun challenge to work with to say the least but at the end they are enjoyable to play.
 
 ![ShadowOsmium's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowOsmium&show_icons=true&theme=tokyonight)
 
